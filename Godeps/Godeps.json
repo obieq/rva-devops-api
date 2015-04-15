@@ -1,0 +1,49 @@
+{
+	"ImportPath": "github.com/obieq/rva-devops-api",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/gedex/inflector",
+			"Rev": "8c0e57904488c554ab26caec525db5c92b23f051"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-114-g6241001",
+			"Rev": "6241001738f6e1b1ea7c4a4089195e1b0681609a"
+		},
+		{
+			"ImportPath": "github.com/joho/godotenv",
+			"Comment": "v1-2-gead2e75",
+			"Rev": "ead2e75027bf1a3f6457e28d9eb3c2fa05109d2b"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/binding",
+			"Rev": "1928ed2850e7d65507ea4198d935597e43612c7d"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/render",
+			"Rev": "b65063311fac6cbf84d3538f5715f7847e648322"
+		},
+		{
+			"ImportPath": "github.com/obieq/goar",
+			"Rev": "ca3a6a6e506525aa8cd659799960b98d77d78839"
+		},
+		{
+			"ImportPath": "github.com/orchestrate-io/gorc",
+			"Rev": "b6327210ca12413a8cd3e9b1a22384bee4709551"
+		},
+		{
+			"ImportPath": "github.com/oxtoacart/bpool",
+			"Rev": "754d38fccfc6e52083355014b6abc8d626445dfd"
+		},
+		{
+			"ImportPath": "github.com/twinj/uuid",
+			"Rev": "4d772442af203e27723acc7d1eea6c93cd319c57"
+		}
+	]
+}

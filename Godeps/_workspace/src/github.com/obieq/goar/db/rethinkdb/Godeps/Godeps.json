@@ -1,0 +1,30 @@
+{
+	"ImportPath": "github.com/obieq/goar/db/rethinkdb",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/goprotobuf/proto",
+			"Comment": "go.r60-163",
+			"Rev": "9352842ae63ee1d7e74e074ce7bb10370c4b6b9e"
+		},
+		{
+			"ImportPath": "github.com/dancannon/gorethink",
+			"Comment": "v0.6.3",
+			"Rev": "a05fb9f684e7bcf6ada71ff71b8b73ba28e63a6a"
+		},
+		{
+			"ImportPath": "github.com/gedex/inflector",
+			"Rev": "8c0e57904488c554ab26caec525db5c92b23f051"
+		},
+		{
+			"ImportPath": "github.com/onsi/ginkgo",
+			"Comment": "v1.1.0-41-g38caab9",
+			"Rev": "38caab951a9ff39f0e61294a1dbaaa074a39228b"
+		},
+		{
+			"ImportPath": "github.com/onsi/gomega",
+			"Comment": "v1.0-28-g8adf9e1",
+			"Rev": "8adf9e1730c55cdc590de7d49766cb2acc88d8f2"
+		}
+	]
+}
